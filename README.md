@@ -1,0 +1,2 @@
+# securityawareness
+Microsoft CyberSecurity Awareness Kit From Microsoft and Terranova Security In response to rapidly-evolving customer needs, Microsoft is releasing a cybersecurity awareness kit in partnership with Terranova Security. This kit contains three full end user phish and privacy education courses, two videos about the coronavirus-themed attacks, and several blog posts, posters, newsletters, and infographic sheets. We are providing this to all of our customers so that they can educate their organizations and reduce phishing risk during this time.
